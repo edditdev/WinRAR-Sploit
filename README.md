@@ -2,7 +2,7 @@
 winrar activation code with regkey
 
 
-if .net forms so u need to implement it in your forms, not mine form1.
-also - there is used guna in code, remove it if u have no one.
+its .class file so u need to remake it into module.
 
-u can make this script in module idc
+if you have no guna ui2 - remove guna elements from code if you want to use class in your forms'
+
