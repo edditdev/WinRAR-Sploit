@@ -1,6 +1,7 @@
 winrar exploit
 
-code included in sSploit-vrsl exploits regkey of winrar app 
+code included in sSploit-vrsl exploits regkey of winrar app
+
 its unlocks premium features and removes watermark
 have fun
 
